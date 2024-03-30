@@ -11,13 +11,23 @@ Ane some required libraries:
 
     sudo apt install libpcap-dev libboost-all-dev
 
+Then,open terminal on Your desktop and type this command to copy this repository:
 
+    git clone https://github.com/JRDPCN/NetEye
 
+Now,nawigate to NetEye directory on Your desktop and type this command to compile NetEye:
 
+    g++ -o NetEye NetEye.cpp -lpcap -lboost_system -lboost_thread
 
+Then,You should see executable file in this directory,without extension.
+Run this command to allow this file to run as program:
 
+    sudo chmod +x NetEye
 
+Now,You can run NetEye:
 
+    sudo ./NetEye-i <interface>
 
+As <interface> use network interface of your device.run ifconfig command to see available interfaces.
 
-![Screenshot 2024-03-30 at 05-34-09 SMASHINGLOGO Preview](https://github.com/JRDPCN/NetEye/assets/136267216/00994b02-b69d-46be-b1d0-dc828116b8c2)
+    ![NetEye](https://github.com/JRDPCN/NetEye/assets/136267216/83d73886-35d6-4a0f-b9d4-39bcccd02c9f)
