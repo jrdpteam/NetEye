@@ -30,4 +30,4 @@ Now,You can run NetEye:
 
 As <interface> use network interface of your device.run ifconfig command to see available interfaces.
 
-    ![NetEye](https://github.com/JRDPCN/NetEye/assets/136267216/83d73886-35d6-4a0f-b9d4-39bcccd02c9f)
+![NetEye](https://github.com/JRDPCN/NetEye/assets/136267216/83d73886-35d6-4a0f-b9d4-39bcccd02c9f)
