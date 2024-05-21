@@ -26,8 +26,8 @@ Run this command to allow this file to run as program:
 
 Now,You can run NetEye:
 
-    sudo ./NetEye -i <interface>
+    sudo ./NetEye -i INTERFACE
 
-As "<interface>" use network interface of your device.Run *ifconfig* command to see available interfaces.
+As "INTERFACE" use network interface of your device.Run *ifconfig* command to see available interfaces.
 
 ![NetEye](https://github.com/JRDPCN/NetEye/assets/136267216/83d73886-35d6-4a0f-b9d4-39bcccd02c9f)
