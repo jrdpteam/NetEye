@@ -1,7 +1,7 @@
 # NetEye
 Tiny sniffer made in C++.Designed for use on Kali Linux and other Debian-based linux distributions.
 
-NetEye allows you to view your network traffic. You can see visited websites, analyze HTTP/HTTPS requests, cookie data, unencrypted UDP/TCP messages and personal/login data. The project is still under development. by JRDP Team
+NetEye allows you to view your network traffic. You can see visited websites, analyze HTTP/HTTPS requests, cookie data, unencrypted UDP/TCP packets,messages and personal/login data. The project is still under development. by JRDP Team
 
 To build NetEye you need to install g++ compiler using this command:
 
