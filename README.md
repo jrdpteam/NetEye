@@ -7,7 +7,7 @@ To build NetEye you need to install g++ compiler using this command:
 
     sudo apt update && sudo apt install g++
 
-Ane some required libraries:
+And some required libraries:
 
     sudo apt install libpcap-dev libboost-all-dev
 
